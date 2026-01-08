@@ -6,8 +6,6 @@
         {
             Console.WriteLine("Hello, Sweden!");
             Console.WriteLine("Hello");
-            Hej
-                Hej
         }
     }
 }
